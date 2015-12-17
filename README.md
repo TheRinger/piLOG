@@ -2,7 +2,12 @@
 A simple automation and data logging project running on RaspberryPI 2 B 
 
 ```
-"All of the biggest technological inventions created by man – the airplane, the automobile, the computer – says little about his intelligence, but speaks volumes about his laziness." – Mark Kennedy
+"All of the biggest technological inventions created by man
+ – the airplane, the automobile, the computer
+ – says little about his intelligence, 
+ but speaks volumes about his laziness."
+
+  – Mark Kennedy
 ```
 
 ![alt tag](https://cloud.githubusercontent.com/assets/6418211/11865164/2171f954-a457-11e5-9d46-30fb8d9537a2.png)
