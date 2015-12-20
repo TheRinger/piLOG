@@ -35,12 +35,9 @@ A simple automation and data logging project running on RaspberryPI 2 B
 ##
 
 ```
-Looking for Awesome Partners & Investors.
-```
-[irc.freenode](http://webchat.freenode.net/?nick=piLOG...&channels=%23piLOG%2C%20%23RaspberryPI%2C%20%23arduino&uio=MTA9dHJ1ZSYxMT0yMjY7c)
-
-/msg TheRinger "Hey man, I'd love to help with PiLog"
-
-or 
-
-[emailme](mailto:tytek2012@gmail.com)
+#### Possible Future Additions
+* Tracking Relay State
+* Controlling devices with API
+* MQTT interfacing
+* Monitoring Power Consumption
+* Temperature Hysteresis
