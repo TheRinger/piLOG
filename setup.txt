@@ -1,0 +1,15 @@
+cp pilog.py /usr/local/bin/pilog.py
+chmod 755 /usr/local/bin/pilog.py
+
+cp pilog_startup /etc/init.d/pilog_startup
+chmod 755 /etc/init.d/pilog_startup
+#Test with
+sudo /etc/init.d/pilog_startup start
+sudo /etc/init.d/pilog_startup status
+sudo /etc/init.d/pilog_startup stop
+
+#make init script run at the right time..
+sudo update-rc.d pilog_startup defaults
+
+#See symbolic links
+ls -l /etc/rc?.d/*pilog_startup
